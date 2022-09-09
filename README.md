@@ -1,0 +1,15 @@
+# Whatisup-Chat-App
+THIS IS A REAL TIME CHAT APPLICATION WHERE TWO USERS CAN TALK TO EACH OTHER
+
+
+USER 1 ENTERS NAME PROMPT
+
+![Screenshot (622)](https://user-images.githubusercontent.com/65027853/189340310-0ec6b3ed-8539-4965-afd3-4e43224994bc.png)
+
+USER 2 ENTERS NAME PROMPT
+
+![Screenshot (623)](https://user-images.githubusercontent.com/65027853/189340476-ea7b2cdd-a0c7-429f-98ff-7c9c3e19d6e5.png)
+
+IF USER 1 SENDS MESSAGE THE MESSAGE WILL APPPEAR IN USER 2 BROWER AND SIMILARLILY IF USER 2 SENDS SOME MESSAGE IT WILL APPEAR IN USER 1 BROWSER
+
+![Screenshot (624)](https://user-images.githubusercontent.com/65027853/189340697-92a7ac07-beb7-4edf-a5e0-7b7d9ee571fe.png)
