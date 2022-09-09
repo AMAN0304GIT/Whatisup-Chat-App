@@ -1,0 +1,81 @@
+
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    background: rgb(176, 242, 216);
+    
+}
+
+section.chat__section{
+    width: 800px;
+    max-width: 90%;
+    background: lightgray;
+    box-shadow: 0 10px 15px -3px
+}
+
+.brand{
+    padding: 20px;
+    background: rgb(151, 182, 241);
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.brand h1{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: rgb(67, 53, 62);
+    margin-left: 20px;
+    
+}
+
+.message__area{
+    height: 500px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto ;
+    padding-top: 40px;
+}
+
+textarea{
+    width: 95%;
+    border: none;
+    padding: 20px;
+    font-size: 16px;
+    outline:none;
+    background: wheat;
+}
+
+.message{
+    padding: 20px;
+    border-radius: 4px;
+    margin-bottom: 40px;
+    max-width: 300px;
+    position: relative;
+
+}
+.incoming{
+    background: pink;
+    color: #FFF;
+
+}
+.outgoing{
+    background: rgb(156, 218, 118);
+    color: rgb(248, 245, 245);
+    margin-left: auto;
+    border-radius: 10px;
+
+}
+.message h4{
+    position: absolute;
+    top: -10px;
+    
+    left: 0;
+    color: rgb(248, 10, 10);
+    font-size: 15px;
+}
